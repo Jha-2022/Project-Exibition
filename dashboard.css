@@ -195,7 +195,7 @@
 }
 
 .anm img{
-  height: 200px;
+  height: 222px;
   width:200px;
 }
 
@@ -214,7 +214,7 @@
 }
 
 .dsa img{
-  height: 200px;
+  height: 222px;
   width:200px
 }
 
@@ -259,7 +259,7 @@
 }
 
 .eee img{
-  height: 180px;
+  height: 222px;
   width:200px
 }
 
@@ -279,7 +279,7 @@
 }
 
 .cal img{
-  height: 200px;
+  height: 222px;
   width:200px
 }
 
@@ -299,7 +299,7 @@
 }
 
 .pye img{
-  height: 200px;
+  height: 222px;
   width:200px
 }
 
@@ -318,9 +318,9 @@
   font-weight: 780;
 }
 
-.tutorials{
+/* .tutorials{
   display:none;
-}
+} */
 
 .date-container {
   display: flex;
