@@ -216,7 +216,8 @@
 
 .dsa img{
   height: 222px;
-  width:200px
+  width:200px;
+ padding-bottom:5%
 }
 
 
@@ -237,7 +238,8 @@
 
 .chem img{
   height: 222px;
-  width:200px
+  width:200px;
+  padding-bottom:5%
 }
 
 
@@ -305,7 +307,8 @@
 
 .pye img{
   height: 222px;
-  width:200px
+  width:200px;
+  padding-bottom:5%
 }
 
 .pye{
